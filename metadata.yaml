@@ -1,0 +1,40 @@
+_repo: Selections-from-Modern-Poets-Made-by-J-C-Squire_53206
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Squire, John Collings, Sir
+    aliases:
+    - Squire, J. C. (John Collings)
+    - Squire, Jack Collings
+    birthdate: 1884
+    deathdate: 1958
+    gutenberg_agent_id: '35258'
+    url: http://www.gutenberg.org/2009/agents/35258
+    wikipedia: http://en.wikipedia.org/wiki/J._C._Squire
+description: ''
+gutenberg_issued: '2016-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53206'
+  lccn: '21020913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Lascelles Abercrombie -- Martin Armstrong -- Maurice Baring -- Hilaire
+  Belloc -- Edmund Blunden -- Gordon Bottomley -- Rupert Brooke -- Francis Burrows
+  -- A. Y. Campbell -- G. K. Chesterton -- Padraic Colum -- Frances Cornford -- W.
+  H. Davies -- Edward L. Davison -- Walter De La Mare -- John Drinkwater -- R. C.
+  K. Ensor -- James Elroy Flecker -- Robin Flower -- John Freeman -- Robert Graves
+  -- Julian Grenfell -- Ivor Gurney -- Ralph Hodgson -- James Joyce -- D. H. Lawrence
+  -- Francis Ledwidge -- Rose Macaulay -- Thomas MacDonagh -- John Masefield -- Harold
+  Monro -- Sturge Moore -- Robert Nichols -- Seumas O'Sullivan -- Wilfred Owen --
+  Joseph Plunkett -- Siegfried Sassoon -- Edward Shanks -- C. H. Sorley -- James Stephens
+  -- Edward Wyndham Tennant -- Edward Thomas -- W. J. Turner -- Iolo Aneurin Williams
+  -- Francis Brett Young.
+title: "Selections from Modern Poets\r\nMade by J. C. Squire"
+url: http://www.gutenberg.org/ebooks/53206
