@@ -1,5 +1,5 @@
 _repo: Selections-from-Modern-Poets-Made-by-J-C-Squire_53206
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Squire, John Collings, Sir
@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '35258'
     url: http://www.gutenberg.org/2009/agents/35258
     wikipedia: http://en.wikipedia.org/wiki/J._C._Squire
+covers:
+- cover_type: archival
+  image_path: 53206-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53206#Selections-from-Modern-Poets-Made-by-J-C-Squire
 gutenberg_issued: '2016-10-04'
 gutenberg_type: Text
 identifiers:
